@@ -1,0 +1,83 @@
+# Copia de las carreras diarias de GT7 desde GT GridStats (gt-gridstats.com), con su permiso.
+# Los móviles nunca llaman a GridStats: leen diarias.json de este repositorio.
+# La clave va guardada como secreto del repositorio (GRIDSTATS_TOKEN), nunca en el código.
+name: Diarias GT GridStats
+
+on:
+  schedule:
+    - cron: '23 */4 * * *'     # 6 veces al día (GridStats deja 100 consultas diarias)
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/diarias.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: diarias
+  cancel-in-progress: false
+
+jobs:
+  copiar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pedir las diarias a GT GridStats
+        env:
+          TOKEN: ${{ secrets.GRIDSTATS_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::error::Falta el secreto GRIDSTATS_TOKEN (Settings > Secrets and variables > Actions)"
+            exit 1
+          fi
+          code=$(curl -sS -o resp.json -w '%{http_code}' --max-time 30 \
+            -H "Authorization: Bearer $TOKEN" -H "Accept: application/json" \
+            -H "User-Agent: OreinTelemetria/1.0 (+https://oreinmotorsport.netlify.app)" \
+            https://gt-gridstats.com/api/dailies/this-week)
+          echo "Respuesta HTTP $code"
+          echo "CODIGO=$code" >> "$GITHUB_ENV"
+          head -c 600 resp.json; echo
+
+      - name: Guardar diarias.json
+        run: |
+          python3 - <<'PY'
+          import json, os, datetime
+          code = os.environ.get("CODIGO", "0")
+          ahora = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+          if code == "200":
+              d = json.load(open("resp.json", encoding="utf-8"))
+              carreras = []
+              for c in d.get("data") or []:
+                  carreras.append({k: c.get(k) for k in (
+                      "race_type", "track_name", "track_photo", "track_map", "laps", "car_class",
+                      "status", "begin_date", "end_date", "raw_payload", "meta_car", "car_total")} |
+                      {"other_cars": (c.get("other_cars") or [])[:5]})
+              out = {"estado": "ok", "actualizado": ahora, "fuente": "GT GridStats · gt-gridstats.com", "carreras": carreras}
+          elif code == "404":
+              out = {"estado": "ninguna", "actualizado": ahora, "fuente": "GT GridStats · gt-gridstats.com", "carreras": []}
+          else:
+              raise SystemExit(f"GridStats respondió {code}: no se toca la copia anterior")
+          viejo = None
+          if os.path.exists("diarias.json"):
+              try:
+                  viejo = json.load(open("diarias.json", encoding="utf-8"))
+              except Exception:
+                  pass
+          if viejo and {k: v for k, v in viejo.items() if k != "actualizado"} == {k: v for k, v in out.items() if k != "actualizado"}:
+              print("Sin cambios en las diarias")
+              open("SIN_CAMBIOS", "w").close()
+          json.dump(out, open("diarias.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+          print(json.dumps(out, ensure_ascii=False)[:3000])
+          PY
+
+      - name: Subir la copia
+        run: |
+          if [ -f SIN_CAMBIOS ]; then echo "Nada que subir"; exit 0; fi
+          git config user.name "orein-bot"
+          git config user.email "oreinmotorsport@gmail.com"
+          git add diarias.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Diarias GT7 actualizadas (GT GridStats)"
+          git push
