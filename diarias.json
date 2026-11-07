@@ -1,0 +1,217 @@
+{
+ "estado": "ok",
+ "actualizado": "2026-11-07T07:49:42Z",
+ "fuente": "GT GridStats · gt-gridstats.com",
+ "carreras": [
+  {
+   "race_type": "A",
+   "track_name": "Dragon Trail - Gardens",
+   "track_photo": "/site-assets/TrackPhotos/Dragon Trail - Seaside_.webp",
+   "track_map": "/site-assets/SvgTrackMaps/DragonTrail-Gardens-CENTER.svg",
+   "laps": 5,
+   "car_class": "Road",
+   "status": "live",
+   "begin_date": "2026-11-02 00:00:00",
+   "end_date": "2026-11-08 23:59:59",
+   "raw_payload": {
+    "pit": {
+     "refueling_speed": 10
+    },
+    "race": {
+     "start_type": "StartGrid",
+     "consume_fuel": 1,
+     "consume_tire": 1,
+     "pit_constraint": 0,
+     "behavior_damage": "Weak",
+     "limit_fuel_capacity": -1,
+     "behavior_slip_stream_type": "Simulation"
+    },
+    "event": {
+     "end_date": -1,
+     "begin_date": -1,
+     "event_title_key": "",
+     "flyer_image_path": "",
+     "registration_key": "",
+     "player_select_type": "FromGarageOrPool",
+     "event_description_key": ""
+    },
+    "track": {
+     "hour": 14,
+     "minute": 2
+    },
+    "penalty": {
+     "penalty_level": 1,
+     "is_guide_course_off": false
+    },
+    "regulation": {
+     "tire": "Comfort",
+     "compounds": [
+      "Soft"
+     ],
+     "limit_nos": "Prohibitted",
+     "limit_wide_fender": "Prohibitted",
+     "limit_car_settings": true,
+     "required_compounds": [],
+     "use_balance_of_power": true
+    }
+   },
+   "meta_car": {
+    "name": "Chevrolet Corvette Stingray Convertible (C3) '69",
+    "image": "/storage/car_thumbnails/car1542.png",
+    "entries": 100
+   },
+   "car_total": 100,
+   "other_cars": []
+  },
+  {
+   "race_type": "B",
+   "track_name": "Grand Valley - Highway 1",
+   "track_photo": "/site-assets/TrackPhotos/Grand Valley - Highway 1_.webp",
+   "track_map": "/site-assets/SvgTrackMaps/GrandValleyHighway1-CENTER.svg",
+   "laps": 6,
+   "car_class": "Gr.3",
+   "status": "live",
+   "begin_date": "2026-11-02 00:00:00",
+   "end_date": "2026-11-08 23:59:59",
+   "raw_payload": {
+    "pit": {
+     "refueling_speed": 10
+    },
+    "race": {
+     "start_type": "StartFormationRolling",
+     "consume_fuel": 1,
+     "consume_tire": 1,
+     "pit_constraint": 0,
+     "behavior_damage": "Middle",
+     "limit_fuel_capacity": -1,
+     "behavior_slip_stream_type": "Custom"
+    },
+    "event": {
+     "end_date": -1,
+     "begin_date": -1,
+     "event_title_key": "",
+     "flyer_image_path": "",
+     "registration_key": "",
+     "player_select_type": "FromGarageOrPool",
+     "event_description_key": ""
+    },
+    "track": {
+     "hour": 16,
+     "minute": 21
+    },
+    "penalty": {
+     "penalty_level": 1,
+     "is_guide_course_off": false
+    },
+    "regulation": {
+     "tire": "Racing",
+     "compounds": [
+      "Medium"
+     ],
+     "limit_nos": "Prohibitted",
+     "limit_wide_fender": "Prohibitted",
+     "limit_car_settings": false,
+     "required_compounds": [],
+     "use_balance_of_power": true
+    }
+   },
+   "meta_car": {
+    "name": "Toyota GR Supra Racing Concept '18",
+    "image": "/storage/car_thumbnails/car3352.png",
+    "entries": 65
+   },
+   "car_total": 100,
+   "other_cars": [
+    {
+     "name": "Subaru WRX Gr.3",
+     "image": "/storage/car_thumbnails/car2186.png",
+     "entries": 4
+    },
+    {
+     "name": "Mitsubishi Lancer Evolution Final Edition Gr.3",
+     "image": "/storage/car_thumbnails/car2185.png",
+     "entries": 4
+    },
+    {
+     "name": "Genesis X GR3",
+     "image": "/storage/car_thumbnails/car3502.png",
+     "entries": 3
+    },
+    {
+     "name": "Toyota Supra GT500 '97",
+     "image": "/storage/car_thumbnails/car1470.png",
+     "entries": 3
+    },
+    {
+     "name": "Nissan GT-R NISMO GT3 '13",
+     "image": "/storage/car_thumbnails/car1905.png",
+     "entries": 3
+    }
+   ]
+  },
+  {
+   "race_type": "C",
+   "track_name": "Watkins Glen Long Course",
+   "track_photo": "/site-assets/TrackPhotos/Watkins Glen Long Course__1.webp",
+   "track_map": "/site-assets/SvgTrackMaps/WatkinsGlen-Long-Center.svg",
+   "laps": 11,
+   "car_class": "Gr.4",
+   "status": "live",
+   "begin_date": "2026-11-02 00:00:00",
+   "end_date": "2026-11-08 23:59:59",
+   "raw_payload": {
+    "pit": {
+     "refueling_speed": 10
+    },
+    "race": {
+     "start_type": "StartFormationRolling",
+     "consume_fuel": 3,
+     "consume_tire": 5,
+     "pit_constraint": 0,
+     "behavior_damage": "Middle",
+     "limit_fuel_capacity": -1,
+     "behavior_slip_stream_type": "Custom"
+    },
+    "event": {
+     "end_date": -1,
+     "begin_date": -1,
+     "event_title_key": "",
+     "flyer_image_path": "",
+     "registration_key": "",
+     "player_select_type": "FromGarageOrPool",
+     "event_description_key": ""
+    },
+    "track": {
+     "hour": 0,
+     "minute": 0
+    },
+    "penalty": {
+     "penalty_level": 1,
+     "is_guide_course_off": false
+    },
+    "regulation": {
+     "tire": "Racing",
+     "compounds": [
+      "Hard",
+      "Medium"
+     ],
+     "limit_nos": "Prohibitted",
+     "limit_wide_fender": "Prohibitted",
+     "limit_car_settings": false,
+     "required_compounds": [
+      "Hard",
+      "Medium"
+     ],
+     "use_balance_of_power": true
+    }
+   },
+   "meta_car": {
+    "name": "Audi TT Cup '16",
+    "image": "/storage/car_thumbnails/car3298.png",
+    "entries": 100
+   },
+   "car_total": 100,
+   "other_cars": []
+  }
+ ]
+}
