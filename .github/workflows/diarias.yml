@@ -2,6 +2,7 @@
 # Los móviles nunca llaman a GridStats: leen diarias.json de este repositorio.
 # La clave va guardada como secreto del repositorio (GRIDSTATS_TOKEN), nunca en el código.
 name: Diarias GT GridStats
+# puesta en marcha: 07/11/2026
 
 on:
   schedule:
