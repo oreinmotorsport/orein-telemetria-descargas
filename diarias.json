@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-07T07:49:42Z",
+ "actualizado": "2026-11-08T01:32:38Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,18 +118,18 @@
    "meta_car": {
     "name": "Toyota GR Supra Racing Concept '18",
     "image": "/storage/car_thumbnails/car3352.png",
-    "entries": 65
+    "entries": 64
    },
    "car_total": 100,
    "other_cars": [
     {
-     "name": "Subaru WRX Gr.3",
-     "image": "/storage/car_thumbnails/car2186.png",
-     "entries": 4
-    },
-    {
      "name": "Mitsubishi Lancer Evolution Final Edition Gr.3",
      "image": "/storage/car_thumbnails/car2185.png",
+     "entries": 5
+    },
+    {
+     "name": "Subaru WRX Gr.3",
+     "image": "/storage/car_thumbnails/car2186.png",
      "entries": 4
     },
     {
