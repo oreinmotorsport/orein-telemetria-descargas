@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-08T09:10:13Z",
+ "actualizado": "2026-11-08T13:16:18Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,7 +118,7 @@
    "meta_car": {
     "name": "Toyota GR Supra Racing Concept '18",
     "image": "/storage/car_thumbnails/car3352.png",
-    "entries": 66
+    "entries": 65
    },
    "car_total": 100,
    "other_cars": [
