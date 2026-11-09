@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-09T09:32:29Z",
+ "actualizado": "2026-11-09T13:39:00Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,34 +118,34 @@
    "meta_car": {
     "name": "Audi TT Cup '16",
     "image": "/storage/car_thumbnails/car3298.png",
-    "entries": 51
+    "entries": 63
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Lamborghini Huracán Gr.4",
      "image": "/storage/car_thumbnails/car3253.png",
-     "entries": 26
+     "entries": 29
     },
     {
      "name": "Hyundai ELANTRA N TC '24",
      "image": "/storage/car_thumbnails/car3590.png",
-     "entries": 7
-    },
-    {
-     "name": "MAZDA3 Gr.4",
-     "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 6
-    },
-    {
-     "name": "Mazda Atenza Gr.4",
-     "image": "/storage/car_thumbnails/car3256.png",
      "entries": 2
     },
     {
-     "name": "Nissan Silvia spec-R Aero (S15) Touring Car",
-     "image": "/storage/car_thumbnails/car3477.png",
-     "entries": 2
+     "name": "Volkswagen Scirocco Gr.4",
+     "image": "/storage/car_thumbnails/car3231.png",
+     "entries": 1
+    },
+    {
+     "name": "Mitsubishi Lancer Evolution Final Edition Gr.4",
+     "image": "/storage/car_thumbnails/car3258.png",
+     "entries": 1
+    },
+    {
+     "name": "Alfa Romeo 155 2.5 V6 TI '93",
+     "image": "/storage/car_thumbnails/car365.png",
+     "entries": 1
     }
    ]
   },
@@ -208,34 +208,34 @@
    "meta_car": {
     "name": "BMW M6 GT3 Sprint Model '16",
     "image": "/storage/car_thumbnails/car3221.png",
-    "entries": 60
+    "entries": 59
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "BMW M6 GT3 Endurance Model '16",
      "image": "/storage/car_thumbnails/car3218.png",
-     "entries": 17
-    },
-    {
-     "name": "Volkswagen Beetle Gr.3",
-     "image": "/storage/car_thumbnails/car3305.png",
-     "entries": 3
-    },
-    {
-     "name": "Lexus RC F GT3 '17",
-     "image": "/storage/car_thumbnails/car3340.png",
-     "entries": 3
+     "entries": 25
     },
     {
      "name": "Toyota GR Supra Racing Concept '18",
      "image": "/storage/car_thumbnails/car3352.png",
-     "entries": 3
+     "entries": 4
     },
     {
-     "name": "Genesis X GR3",
-     "image": "/storage/car_thumbnails/car3502.png",
-     "entries": 3
+     "name": "Mercedes-AMG GT3 '20",
+     "image": "/storage/car_thumbnails/car3531.png",
+     "entries": 2
+    },
+    {
+     "name": "SUZUKI Vision Gran Turismo (Gr.3 Version)",
+     "image": "/storage/car_thumbnails/car3508.png",
+     "entries": 1
+    },
+    {
+     "name": "MAZDA RX-VISION GT3 EVO '26",
+     "image": "/storage/car_thumbnails/car3609.png",
+     "entries": 1
     }
    ]
   }
