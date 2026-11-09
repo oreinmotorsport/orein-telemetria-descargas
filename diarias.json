@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-09T17:26:05Z",
+ "actualizado": "2026-11-09T21:12:22Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,19 +118,24 @@
    "meta_car": {
     "name": "Audi TT Cup '16",
     "image": "/storage/car_thumbnails/car3298.png",
-    "entries": 62
+    "entries": 58
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Lamborghini Huracán Gr.4",
      "image": "/storage/car_thumbnails/car3253.png",
-     "entries": 31
+     "entries": 37
+    },
+    {
+     "name": "Hyundai ELANTRA N TC '24",
+     "image": "/storage/car_thumbnails/car3590.png",
+     "entries": 2
     },
     {
      "name": "MAZDA3 Gr.4",
      "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 2
+     "entries": 1
     },
     {
      "name": "Peugeot RCZ Gr.4",
@@ -140,11 +145,6 @@
     {
      "name": "Suzuki Swift Sport KATANA Edition Gr.4",
      "image": "/storage/car_thumbnails/car3480.png",
-     "entries": 1
-    },
-    {
-     "name": "Hyundai ELANTRA N TC '24",
-     "image": "/storage/car_thumbnails/car3590.png",
      "entries": 1
     }
    ]
@@ -208,19 +208,19 @@
    "meta_car": {
     "name": "Toyota GR Supra Racing Concept '18",
     "image": "/storage/car_thumbnails/car3352.png",
-    "entries": 49
+    "entries": 78
    },
    "car_total": 100,
    "other_cars": [
     {
-     "name": "BMW M6 GT3 Sprint Model '16",
-     "image": "/storage/car_thumbnails/car3221.png",
-     "entries": 22
-    },
-    {
      "name": "BMW M6 GT3 Endurance Model '16",
      "image": "/storage/car_thumbnails/car3218.png",
-     "entries": 18
+     "entries": 8
+    },
+    {
+     "name": "BMW M6 GT3 Sprint Model '16",
+     "image": "/storage/car_thumbnails/car3221.png",
+     "entries": 8
     },
     {
      "name": "Ferrari 296 GT3 '23",
@@ -228,14 +228,14 @@
      "entries": 3
     },
     {
-     "name": "Porsche 911 RSR (991) '17",
-     "image": "/storage/car_thumbnails/car3311.png",
-     "entries": 2
+     "name": "Lexus RC F GT3 '17",
+     "image": "/storage/car_thumbnails/car3340.png",
+     "entries": 1
     },
     {
      "name": "Mercedes-AMG GT3 '20",
      "image": "/storage/car_thumbnails/car3531.png",
-     "entries": 2
+     "entries": 1
     }
    ]
   }
