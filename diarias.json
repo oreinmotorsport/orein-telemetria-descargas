@@ -1,18 +1,18 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-09T01:36:23Z",
+ "actualizado": "2026-11-09T09:32:29Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
    "race_type": "A",
-   "track_name": "Dragon Trail - Gardens",
-   "track_photo": "/site-assets/TrackPhotos/Dragon Trail - Seaside_.webp",
-   "track_map": "/site-assets/SvgTrackMaps/DragonTrail-Gardens-CENTER.svg",
-   "laps": 5,
+   "track_name": "Suzuka Circuit East Course",
+   "track_photo": "/site-assets/TrackPhotos/Suzuka Circuit_.webp",
+   "track_map": "/site-assets/SvgTrackMaps/SuzukaCircuitEastCourse-CENTER.svg",
+   "laps": 7,
    "car_class": "Road",
    "status": "live",
-   "begin_date": "2026-11-02 00:00:00",
-   "end_date": "2026-11-08 23:59:59",
+   "begin_date": "2026-11-09 00:00:00",
+   "end_date": "2026-11-15 23:59:59",
    "raw_payload": {
     "pit": {
      "refueling_speed": 10
@@ -36,8 +36,8 @@
      "event_description_key": ""
     },
     "track": {
-     "hour": 14,
-     "minute": 2
+     "hour": 15,
+     "minute": 39
     },
     "penalty": {
      "penalty_level": 1,
@@ -56,8 +56,8 @@
     }
    },
    "meta_car": {
-    "name": "Chevrolet Corvette Stingray Convertible (C3) '69",
-    "image": "/storage/car_thumbnails/car1542.png",
+    "name": "Honda Integra Type R (DC2) '95",
+    "image": "/storage/car_thumbnails/car688.png",
     "entries": 100
    },
    "car_total": 100,
@@ -65,14 +65,14 @@
   },
   {
    "race_type": "B",
-   "track_name": "Grand Valley - Highway 1",
-   "track_photo": "/site-assets/TrackPhotos/Grand Valley - Highway 1_.webp",
-   "track_map": "/site-assets/SvgTrackMaps/GrandValleyHighway1-CENTER.svg",
-   "laps": 6,
-   "car_class": "Gr.3",
+   "track_name": "Trial Mountain Circuit",
+   "track_photo": "/site-assets/TrackPhotos/Trial Mountain Circuit_.webp",
+   "track_map": "/site-assets/SvgTrackMaps/TrialMountain-CENTER.svg",
+   "laps": 4,
+   "car_class": "Gr.4",
    "status": "live",
-   "begin_date": "2026-11-02 00:00:00",
-   "end_date": "2026-11-08 23:59:59",
+   "begin_date": "2026-11-09 00:00:00",
+   "end_date": "2026-11-15 23:59:59",
    "raw_payload": {
     "pit": {
      "refueling_speed": 10
@@ -96,8 +96,8 @@
      "event_description_key": ""
     },
     "track": {
-     "hour": 16,
-     "minute": 21
+     "hour": 17,
+     "minute": 40
     },
     "penalty": {
      "penalty_level": 1,
@@ -116,56 +116,56 @@
     }
    },
    "meta_car": {
-    "name": "Toyota GR Supra Racing Concept '18",
-    "image": "/storage/car_thumbnails/car3352.png",
-    "entries": 65
+    "name": "Audi TT Cup '16",
+    "image": "/storage/car_thumbnails/car3298.png",
+    "entries": 51
    },
    "car_total": 100,
    "other_cars": [
     {
-     "name": "Mitsubishi Lancer Evolution Final Edition Gr.3",
-     "image": "/storage/car_thumbnails/car2185.png",
-     "entries": 4
+     "name": "Lamborghini Huracán Gr.4",
+     "image": "/storage/car_thumbnails/car3253.png",
+     "entries": 26
     },
     {
-     "name": "Subaru WRX Gr.3",
-     "image": "/storage/car_thumbnails/car2186.png",
-     "entries": 4
+     "name": "Hyundai ELANTRA N TC '24",
+     "image": "/storage/car_thumbnails/car3590.png",
+     "entries": 7
     },
     {
-     "name": "Genesis X GR3",
-     "image": "/storage/car_thumbnails/car3502.png",
-     "entries": 3
+     "name": "MAZDA3 Gr.4",
+     "image": "/storage/car_thumbnails/car3537.png",
+     "entries": 6
     },
     {
-     "name": "Toyota Supra GT500 '97",
-     "image": "/storage/car_thumbnails/car1470.png",
-     "entries": 3
+     "name": "Mazda Atenza Gr.4",
+     "image": "/storage/car_thumbnails/car3256.png",
+     "entries": 2
     },
     {
-     "name": "Nissan GT-R NISMO GT3 '13",
-     "image": "/storage/car_thumbnails/car1905.png",
-     "entries": 3
+     "name": "Nissan Silvia spec-R Aero (S15) Touring Car",
+     "image": "/storage/car_thumbnails/car3477.png",
+     "entries": 2
     }
    ]
   },
   {
    "race_type": "C",
-   "track_name": "Watkins Glen Long Course",
-   "track_photo": "/site-assets/TrackPhotos/Watkins Glen Long Course__1.webp",
-   "track_map": "/site-assets/SvgTrackMaps/WatkinsGlen-Long-Center.svg",
-   "laps": 11,
-   "car_class": "Gr.4",
+   "track_name": "Michelin Raceway Road Atlanta ",
+   "track_photo": "/site-assets/TrackPhotos/Michelin Raceway Road Atlanta _.webp",
+   "track_map": "/site-assets/SvgTrackMaps/MichelinRacewayRoadAtlanta-Center.svg",
+   "laps": 14,
+   "car_class": "Gr.3",
    "status": "live",
-   "begin_date": "2026-11-02 00:00:00",
-   "end_date": "2026-11-08 23:59:59",
+   "begin_date": "2026-11-09 00:00:00",
+   "end_date": "2026-11-15 23:59:59",
    "raw_payload": {
     "pit": {
      "refueling_speed": 10
     },
     "race": {
      "start_type": "StartFormationRolling",
-     "consume_fuel": 3,
+     "consume_fuel": 2,
      "consume_tire": 5,
      "pit_constraint": 0,
      "behavior_damage": "Middle",
@@ -182,8 +182,8 @@
      "event_description_key": ""
     },
     "track": {
-     "hour": 0,
-     "minute": 0
+     "hour": 16,
+     "minute": 2
     },
     "penalty": {
      "penalty_level": 1,
@@ -192,26 +192,52 @@
     "regulation": {
      "tire": "Racing",
      "compounds": [
-      "Hard",
-      "Medium"
+      "Medium",
+      "Soft"
      ],
      "limit_nos": "Prohibitted",
      "limit_wide_fender": "Prohibitted",
      "limit_car_settings": false,
      "required_compounds": [
-      "Hard",
-      "Medium"
+      "Medium",
+      "Soft"
      ],
      "use_balance_of_power": true
     }
    },
    "meta_car": {
-    "name": "Audi TT Cup '16",
-    "image": "/storage/car_thumbnails/car3298.png",
-    "entries": 100
+    "name": "BMW M6 GT3 Sprint Model '16",
+    "image": "/storage/car_thumbnails/car3221.png",
+    "entries": 60
    },
    "car_total": 100,
-   "other_cars": []
+   "other_cars": [
+    {
+     "name": "BMW M6 GT3 Endurance Model '16",
+     "image": "/storage/car_thumbnails/car3218.png",
+     "entries": 17
+    },
+    {
+     "name": "Volkswagen Beetle Gr.3",
+     "image": "/storage/car_thumbnails/car3305.png",
+     "entries": 3
+    },
+    {
+     "name": "Lexus RC F GT3 '17",
+     "image": "/storage/car_thumbnails/car3340.png",
+     "entries": 3
+    },
+    {
+     "name": "Toyota GR Supra Racing Concept '18",
+     "image": "/storage/car_thumbnails/car3352.png",
+     "entries": 3
+    },
+    {
+     "name": "Genesis X GR3",
+     "image": "/storage/car_thumbnails/car3502.png",
+     "entries": 3
+    }
+   ]
   }
  ]
 }
