@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-10T01:28:44Z",
+ "actualizado": "2026-11-10T05:16:33Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,28 +118,23 @@
    "meta_car": {
     "name": "Audi TT Cup '16",
     "image": "/storage/car_thumbnails/car3298.png",
-    "entries": 59
+    "entries": 58
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Lamborghini Huracán Gr.4",
      "image": "/storage/car_thumbnails/car3253.png",
-     "entries": 37
+     "entries": 38
     },
     {
      "name": "Hyundai ELANTRA N TC '24",
      "image": "/storage/car_thumbnails/car3590.png",
-     "entries": 2
+     "entries": 3
     },
     {
      "name": "MAZDA3 Gr.4",
      "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 1
-    },
-    {
-     "name": "Peugeot RCZ Gr.4",
-     "image": "/storage/car_thumbnails/car3259.png",
      "entries": 1
     }
    ]
@@ -203,19 +198,19 @@
    "meta_car": {
     "name": "Toyota GR Supra Racing Concept '18",
     "image": "/storage/car_thumbnails/car3352.png",
-    "entries": 86
+    "entries": 89
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "BMW M6 GT3 Endurance Model '16",
      "image": "/storage/car_thumbnails/car3218.png",
-     "entries": 6
+     "entries": 4
     },
     {
      "name": "BMW M6 GT3 Sprint Model '16",
      "image": "/storage/car_thumbnails/car3221.png",
-     "entries": 5
+     "entries": 4
     },
     {
      "name": "Mercedes-AMG GT3 '20",
