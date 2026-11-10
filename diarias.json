@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-10T13:29:15Z",
+ "actualizado": "2026-11-10T17:13:57Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -128,18 +128,18 @@
      "entries": 44
     },
     {
-     "name": "Hyundai ELANTRA N TC '24",
-     "image": "/storage/car_thumbnails/car3590.png",
+     "name": "MAZDA3 Gr.4",
+     "image": "/storage/car_thumbnails/car3537.png",
      "entries": 3
     },
     {
-     "name": "MAZDA3 Gr.4",
-     "image": "/storage/car_thumbnails/car3537.png",
+     "name": "Hyundai ELANTRA N TC '24",
+     "image": "/storage/car_thumbnails/car3590.png",
      "entries": 2
     },
     {
-     "name": "Peugeot RCZ Gr.4",
-     "image": "/storage/car_thumbnails/car3259.png",
+     "name": "Nissan GT-R Gr.4",
+     "image": "/storage/car_thumbnails/car2161.png",
      "entries": 1
     }
    ]
