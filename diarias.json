@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-11T01:28:20Z",
+ "actualizado": "2026-11-11T05:21:40Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,19 +118,19 @@
    "meta_car": {
     "name": "Audi TT Cup '16",
     "image": "/storage/car_thumbnails/car3298.png",
-    "entries": 51
+    "entries": 49
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Lamborghini Huracán Gr.4",
      "image": "/storage/car_thumbnails/car3253.png",
-     "entries": 45
+     "entries": 48
     },
     {
      "name": "MAZDA3 Gr.4",
      "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 2
+     "entries": 1
     },
     {
      "name": "Hyundai ELANTRA N TC '24",
