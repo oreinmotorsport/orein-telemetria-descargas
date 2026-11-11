@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-10T21:06:26Z",
+ "actualizado": "2026-11-11T01:28:20Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,7 +118,7 @@
    "meta_car": {
     "name": "Audi TT Cup '16",
     "image": "/storage/car_thumbnails/car3298.png",
-    "entries": 50
+    "entries": 51
    },
    "car_total": 100,
    "other_cars": [
@@ -135,7 +135,7 @@
     {
      "name": "Hyundai ELANTRA N TC '24",
      "image": "/storage/car_thumbnails/car3590.png",
-     "entries": 2
+     "entries": 1
     },
     {
      "name": "Nissan GT-R Gr.4",
