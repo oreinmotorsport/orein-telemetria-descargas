@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-11T09:16:47Z",
+ "actualizado": "2026-11-11T13:36:29Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,14 +118,14 @@
    "meta_car": {
     "name": "Lamborghini Huracán Gr.4",
     "image": "/storage/car_thumbnails/car3253.png",
-    "entries": 51
+    "entries": 53
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Audi TT Cup '16",
      "image": "/storage/car_thumbnails/car3298.png",
-     "entries": 46
+     "entries": 45
     },
     {
      "name": "MAZDA3 Gr.4",
@@ -135,11 +135,6 @@
     {
      "name": "Hyundai ELANTRA N TC '24",
      "image": "/storage/car_thumbnails/car3590.png",
-     "entries": 1
-    },
-    {
-     "name": "Nissan GT-R Gr.4",
-     "image": "/storage/car_thumbnails/car2161.png",
      "entries": 1
     }
    ]
@@ -203,7 +198,7 @@
    "meta_car": {
     "name": "Toyota GR Supra Racing Concept '18",
     "image": "/storage/car_thumbnails/car3352.png",
-    "entries": 93
+    "entries": 92
    },
    "car_total": 100,
    "other_cars": [
@@ -220,6 +215,11 @@
     {
      "name": "BMW M6 GT3 Endurance Model '16",
      "image": "/storage/car_thumbnails/car3218.png",
+     "entries": 1
+    },
+    {
+     "name": "Nissan GT-R NISMO GT3 '18",
+     "image": "/storage/car_thumbnails/car3450.png",
      "entries": 1
     },
     {
