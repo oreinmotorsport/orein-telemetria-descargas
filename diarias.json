@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-12T05:23:51Z",
+ "actualizado": "2026-11-12T13:39:22Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,14 +118,14 @@
    "meta_car": {
     "name": "Lamborghini Huracán Gr.4",
     "image": "/storage/car_thumbnails/car3253.png",
-    "entries": 55
+    "entries": 56
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Audi TT Cup '16",
      "image": "/storage/car_thumbnails/car3298.png",
-     "entries": 43
+     "entries": 42
     },
     {
      "name": "MAZDA3 Gr.4",
@@ -198,14 +198,14 @@
    "meta_car": {
     "name": "Toyota GR Supra Racing Concept '18",
     "image": "/storage/car_thumbnails/car3352.png",
-    "entries": 94
+    "entries": 95
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "BMW M6 GT3 Sprint Model '16",
      "image": "/storage/car_thumbnails/car3221.png",
-     "entries": 2
+     "entries": 1
     },
     {
      "name": "BMW M6 GT3 Endurance Model '16",
