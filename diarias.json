@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-13T01:33:13Z",
+ "actualizado": "2026-11-13T05:21:43Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -208,13 +208,13 @@
      "entries": 1
     },
     {
-     "name": "BMW M6 GT3 Endurance Model '16",
-     "image": "/storage/car_thumbnails/car3218.png",
+     "name": "Mercedes-AMG GT3 '20",
+     "image": "/storage/car_thumbnails/car3531.png",
      "entries": 1
     },
     {
-     "name": "Mercedes-AMG GT3 '20",
-     "image": "/storage/car_thumbnails/car3531.png",
+     "name": "BMW M6 GT3 Endurance Model '16",
+     "image": "/storage/car_thumbnails/car3218.png",
      "entries": 1
     }
    ]
