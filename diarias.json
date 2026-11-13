@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-12T21:10:53Z",
+ "actualizado": "2026-11-13T01:33:13Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -198,7 +198,7 @@
    "meta_car": {
     "name": "Toyota GR Supra Racing Concept '18",
     "image": "/storage/car_thumbnails/car3352.png",
-    "entries": 96
+    "entries": 97
    },
    "car_total": 100,
    "other_cars": [
@@ -215,11 +215,6 @@
     {
      "name": "Mercedes-AMG GT3 '20",
      "image": "/storage/car_thumbnails/car3531.png",
-     "entries": 1
-    },
-    {
-     "name": "Nissan GT-R NISMO GT3 '18",
-     "image": "/storage/car_thumbnails/car3450.png",
      "entries": 1
     }
    ]
