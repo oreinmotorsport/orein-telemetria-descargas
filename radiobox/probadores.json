@@ -1,0 +1,48 @@
+{
+ "activa": true,
+ "dias": 7,
+ "hasta": "",
+ "mensaje_fin": "La prueba de Radio Box ha terminado. ¡Muchas gracias por probarla!",
+ "probadores": {
+  "fa092ce6615e8e7684c169edc7a676291987e9443a7bcc61e68940139cafa840": {
+   "n": 1,
+   "activo": true
+  },
+  "8fa879a17faa10afc7d3554b3cf9c83ebfd3b1e75f1632bb00b2d6249ce14e65": {
+   "n": 2,
+   "activo": true
+  },
+  "a2a817d04727c5e7089b23b6dc791638cddfacfe8d8bcb815097c074ba0b7fd6": {
+   "n": 3,
+   "activo": true
+  },
+  "4053ad4dda39d7bc2a0e4c49c155fdacacb603a75bf4fa08fa1101788c68085c": {
+   "n": 4,
+   "activo": true
+  },
+  "ef5f767c10b61c166c1e47b35c3737b8c614dd3d05cc191a683db3003e88760d": {
+   "n": 5,
+   "activo": true
+  },
+  "73ce08db52cd0f5a63fec521174e8ece6cbca938f7218c5543d6490a04345dc5": {
+   "n": 6,
+   "activo": true
+  },
+  "639547a7e8a06ae0b35d6056d4a5839ee59f4eaa30bc78958f1dde94591349bc": {
+   "n": 7,
+   "activo": true
+  },
+  "8f0b95facfd020a1f27bbf6b848f7efa646192b81d4067c15dc058f55822cb1c": {
+   "n": 8,
+   "activo": true
+  },
+  "3675c59534c516c718d710bc578a64b2ac14ed97a25f4917e8d081deb1011ca9": {
+   "n": 9,
+   "activo": true
+  },
+  "7b2d0ea4d689ae44fbc2565c768362441c6161eb9615a1b867fe0aabdc10d2de": {
+   "n": 10,
+   "activo": true
+  }
+ }
+}
