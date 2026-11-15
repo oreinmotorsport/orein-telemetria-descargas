@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radio Box · Política de privacidad</title>
+<meta name="description" content="Política de privacidad de la app Radio Box Telemetric GT.">
+<style>
+  :root { --bg: #ffffff; --ink: #16181d; --muted: #555b66; --line: #e3e5ea; --accent: #1d5fd6; --panel: #f5f7fb; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #0d1017; --ink: #e9ecf2; --muted: #a2a9b6; --line: #262c38; --accent: #6aa5ff; --panel: #151a24; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 1.7rem; line-height: 1.25; margin: 0 0 4px; }
+  h2 { font-size: 1.15rem; margin: 32px 0 8px; padding-top: 8px; border-top: 1px solid var(--line); }
+  h3 { font-size: 1rem; margin: 20px 0 4px; }
+  p, li { color: var(--ink); }
+  .fecha, .nota { color: var(--muted); font-size: .92rem; }
+  .resumen { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 18px; margin: 20px 0; }
+  .resumen ul { margin: 6px 0 0; padding-left: 20px; }
+  table { width: 100%; border-collapse: collapse; font-size: .93rem; margin: 10px 0; }
+  th, td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+  th { color: var(--muted); font-weight: 600; }
+  .tabla { overflow-x: auto; }
+  a { color: var(--accent); }
+  nav a { margin-right: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <nav class="nota"><a href="#es">Español</a><a href="#en">English</a></nav>
+
+  <section id="es">
+  <h1>Política de privacidad de Radio Box Telemetric GT</h1>
+  <p class="fecha">Última actualización: 15 de noviembre de 2026</p>
+
+  <div class="resumen">
+    <b>En pocas palabras</b>
+    <ul>
+      <li>Tus vueltas, tiempos, récords y ajustes se guardan <b>solo en tu móvil</b>.</li>
+      <li>Los datos del juego llegan al móvil por tu wifi de casa y <b>no salen a internet</b>.</li>
+      <li>La app solo usa internet para lo que tú pides (voces, carreras diarias, radar) y, durante la versión de prueba, para comprobar el código y, <b>si lo aceptas</b>, avisar de que la estás probando.</li>
+      <li>No hay anuncios, no se venden datos y no se hacen perfiles.</li>
+    </ul>
+  </div>
+
+  <h2>1. Quién es el responsable</h2>
+  <p>José Ernesto Dato Sanz, autor de Radio Box Telemetric GT (en adelante, «la app»). Contacto para cualquier asunto de privacidad: <a href="mailto:oreinmotorsport@gmail.com">oreinmotorsport@gmail.com</a>.</p>
+
+  <h2>2. Qué datos se tratan, para qué y por qué</h2>
+  <div class="tabla">
+  <table>
+    <tr><th>Qué</th><th>Para qué</th><th>Base legal</th><th>Dónde va</th></tr>
+    <tr><td>Vueltas, tiempos, récords, nombre de piloto, IP de tu consola y ajustes</td><td>Que la app funcione</td><td>Ejecución del servicio que pides (art. 6.1.b RGPD)</td><td>Solo en tu móvil. No los recibimos</td></tr>
+    <tr><td>Datos de telemetría del juego</td><td>Mostrarlos en el salpicadero y dar consejos</td><td>Ejecución del servicio</td><td>Del juego a tu móvil por tu red local. No salen a internet</td></tr>
+    <tr><td><b>Solo en la versión de prueba y solo si lo aceptas:</b> que activas, abres la app o sales a pista; fecha y hora; nombre de piloto; juego; modelo de móvil; versión de Android y de la app; código de prueba; un número aleatorio de esa instalación</td><td>Saber cuánta gente prueba la app y con qué juegos, para decidir si se publica</td><td>Tu consentimiento (art. 6.1.a RGPD), que puedes retirar en la app, en ⚙️ › Acerca de</td><td>Una hoja de cálculo de Google del responsable</td></tr>
+    <tr><td><b>Radar, solo si lo enciendes:</b> nombre de piloto, posición en pista y tiempos de vuelta</td><td>Que los pilotos con tu mismo código de sala os veáis en el mapa</td><td>Ejecución del servicio que pides</td><td>Un servidor de mensajería (MQTT). Lo ven quienes usan tu mismo código de sala. No lo guardamos</td></tr>
+    <tr><td>Tu dirección de correo y lo que escribas, si nos mandas tu opinión o una consulta</td><td>Contestarte y mejorar la app</td><td>Tu consentimiento al escribirnos</td><td>El correo del responsable (Gmail)</td></tr>
+    <tr><td>Tu dirección IP, que ve cualquier servidor al que se conecta la app</td><td>Descargar lo que pides (voces, carreras diarias, archivo de la prueba)</td><td>Ejecución del servicio</td><td>Los proveedores del apartado 3</td></tr>
+  </table>
+  </div>
+
+  <h2>3. Con quién se comparten</h2>
+  <p>Solo con los proveedores técnicos necesarios para lo anterior, que actúan según sus propias políticas:</p>
+  <ul>
+    <li><b>Google</b> (Google Ireland Ltd. / Google LLC): hoja de cálculo de los avisos de la prueba y correo.</li>
+    <li><b>GitHub</b> (GitHub, Inc., EE. UU.): archivos de la prueba y de las carreras diarias.</li>
+    <li><b>Hugging Face</b> (Hugging Face, Inc., EE. UU.): descarga de las voces humanas, si las pides.</li>
+    <li><b>Servidor del radar</b>: actualmente el servidor público de HiveMQ GmbH (Alemania); puede cambiar a un servidor propio alojado en la Unión Europea.</li>
+    <li><b>GT GridStats</b> (gt-gridstats.com): fotos de circuitos de las carreras diarias.</li>
+  </ul>
+  <p>No vendemos ni cedemos datos a nadie más, no hay publicidad ni herramientas de analítica de terceros.</p>
+
+  <h2>4. Transferencias fuera de la Unión Europea</h2>
+  <p>Google, GitHub y Hugging Face pueden tratar datos en EE. UU. Estas transferencias se amparan en el Marco de Privacidad de Datos UE-EE. UU. o en las cláusulas contractuales tipo de la Comisión Europea que aplican esas empresas.</p>
+
+  <h2>5. Cuánto tiempo se guardan</h2>
+  <ul>
+    <li>Datos del móvil: hasta que los borres o desinstales la app.</li>
+    <li>Avisos de la prueba: hasta el final de la prueba y, como mucho, 6 meses después; luego se borran.</li>
+    <li>Radar: no se guarda nada; el servidor solo reenvía los mensajes.</li>
+    <li>Correos: el tiempo necesario para atender tu consulta.</li>
+  </ul>
+
+  <h2>6. Menores</h2>
+  <p>La app no está dirigida a menores de 14 años. Los avisos de la prueba solo se aceptan con 14 años o más, o con permiso de los padres o tutores.</p>
+
+  <h2>7. Tus derechos</h2>
+  <p>Puedes pedir acceso, rectificación, supresión, oposición, limitación y portabilidad de tus datos, y retirar tu consentimiento en cualquier momento, escribiendo a <a href="mailto:oreinmotorsport@gmail.com">oreinmotorsport@gmail.com</a>. Para identificar tus avisos de la prueba nos basta con tu nombre de piloto y modelo de móvil. Si crees que no se respetan tus derechos, puedes reclamar ante la Agencia Española de Protección de Datos (<a href="https://www.aepd.es">aepd.es</a>).</p>
+
+  <h2>8. Seguridad</h2>
+  <p>La app solo pide permiso de acceso a internet. Los datos guardados en el móvil quedan dentro del espacio privado de la app. Las conexiones a Google, GitHub y Hugging Face van cifradas.</p>
+
+  <h2>9. Cambios</h2>
+  <p>Si esta política cambia, se actualizará esta página con la fecha nueva y, si el cambio es importante, se avisará dentro de la app.</p>
+
+  <p class="nota">Radio Box no está hecha, patrocinada ni aprobada por Sony Interactive Entertainment, Polyphony Digital, Electronic Arts, Formula One Licensing, Microsoft ni los propietarios de Project CARS.</p>
+  </section>
+
+  <section id="en">
+  <h1 style="margin-top:48px">Radio Box Telemetric GT — Privacy Policy (summary in English)</h1>
+  <p class="fecha">Last updated: November 15, 2026. The Spanish version above prevails.</p>
+  <ul>
+    <li><b>Controller:</b> José Ernesto Dato Sanz — <a href="mailto:oreinmotorsport@gmail.com">oreinmotorsport@gmail.com</a>.</li>
+    <li><b>On your phone only:</b> laps, times, records, driver name, console IP and settings. Game telemetry travels over your local Wi-Fi and never leaves your network.</li>
+    <li><b>Test version, only with your consent:</b> event type (activated, opened, on track), date, driver name, game, phone model, Android and app version, test code and a random install ID are sent to the developer's Google Sheet to know who is testing. You can withdraw consent in the app (⚙️ › About). Kept until the end of the test and at most 6 months.</li>
+    <li><b>Radar, only if you turn it on:</b> driver name, track position and lap times go through an MQTT server and are visible to users with the same room code. Not stored by us.</li>
+    <li><b>Downloads you request</b> (human voices from Hugging Face, daily races from GitHub / GT GridStats) expose your IP address to those providers.</li>
+    <li><b>No ads, no third-party analytics, no sale or sharing of personal information</b> (including under California law). The app does not track you across other apps or websites, so it does not respond to "Do Not Track" signals.</li>
+    <li><b>Children:</b> the app is not directed to children under 13 (14 in Spain) and we do not knowingly collect their data.</li>
+    <li><b>Your rights:</b> access, correction, deletion, objection and portability — write to the contact address above. EU users may complain to their data protection authority (in Spain, <a href="https://www.aepd.es">AEPD</a>).</li>
+  </ul>
+  </section>
+</main>
+</body>
+</html>
