@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-15T20:58:35Z",
+ "actualizado": "2026-11-16T01:49:25Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,14 +118,14 @@
    "meta_car": {
     "name": "Lamborghini Huracán Gr.4",
     "image": "/storage/car_thumbnails/car3253.png",
-    "entries": 71
+    "entries": 72
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Audi TT Cup '16",
      "image": "/storage/car_thumbnails/car3298.png",
-     "entries": 27
+     "entries": 26
     },
     {
      "name": "MAZDA3 Gr.4",
