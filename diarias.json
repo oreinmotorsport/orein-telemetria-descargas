@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-16T21:09:20Z",
+ "actualizado": "2026-11-17T01:39:32Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -58,34 +58,29 @@
    "meta_car": {
     "name": "Nissan GT-R Gr.4",
     "image": "/storage/car_thumbnails/car2161.png",
-    "entries": 66
+    "entries": 70
    },
    "car_total": 100,
    "other_cars": [
     {
-     "name": "MAZDA3 Gr.4",
-     "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 15
-    },
-    {
      "name": "Audi TT Cup '16",
      "image": "/storage/car_thumbnails/car3298.png",
+     "entries": 14
+    },
+    {
+     "name": "MAZDA3 Gr.4",
+     "image": "/storage/car_thumbnails/car3537.png",
      "entries": 12
     },
     {
      "name": "Honda NSX Gr.4",
      "image": "/storage/car_thumbnails/car3251.png",
-     "entries": 4
+     "entries": 2
     },
     {
      "name": "Lamborghini Huracán Gr.4",
      "image": "/storage/car_thumbnails/car3253.png",
      "entries": 2
-    },
-    {
-     "name": "Alfa Romeo 155 2.5 V6 TI '93",
-     "image": "/storage/car_thumbnails/car365.png",
-     "entries": 1
     }
    ]
   },
@@ -144,19 +139,14 @@
    "meta_car": {
     "name": "Jaguar F-type Gr.3",
     "image": "/storage/car_thumbnails/car2184.png",
-    "entries": 47
+    "entries": 42
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Dodge Viper SRT GT3-R '15",
      "image": "/storage/car_thumbnails/car3223.png",
-     "entries": 12
-    },
-    {
-     "name": "PEUGEOT Vision Gran Turismo (Gr.3)",
-     "image": "/storage/car_thumbnails/car3183.png",
-     "entries": 11
+     "entries": 20
     },
     {
      "name": "Toyota GR Supra Racing Concept '18",
@@ -166,7 +156,12 @@
     {
      "name": "BMW Z4 GT3 '11",
      "image": "/storage/car_thumbnails/car1902.png",
-     "entries": 8
+     "entries": 9
+    },
+    {
+     "name": "PEUGEOT Vision Gran Turismo (Gr.3)",
+     "image": "/storage/car_thumbnails/car3183.png",
+     "entries": 7
     },
     {
      "name": "SUZUKI Vision Gran Turismo (Gr.3 Version)",
@@ -230,14 +225,14 @@
    "meta_car": {
     "name": "Dallara SF23 Super Formula / Toyota '23",
     "image": "/storage/car_thumbnails/car3529.png",
-    "entries": 81
+    "entries": 80
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Dallara SF23 Super Formula / Honda '23",
      "image": "/storage/car_thumbnails/car3528.png",
-     "entries": 19
+     "entries": 20
     }
    ]
   }
