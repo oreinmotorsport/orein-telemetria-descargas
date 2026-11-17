@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-17T01:39:32Z",
+ "actualizado": "2026-11-17T05:21:11Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -58,29 +58,29 @@
    "meta_car": {
     "name": "Nissan GT-R Gr.4",
     "image": "/storage/car_thumbnails/car2161.png",
-    "entries": 70
+    "entries": 75
    },
    "car_total": 100,
    "other_cars": [
-    {
-     "name": "Audi TT Cup '16",
-     "image": "/storage/car_thumbnails/car3298.png",
-     "entries": 14
-    },
     {
      "name": "MAZDA3 Gr.4",
      "image": "/storage/car_thumbnails/car3537.png",
      "entries": 12
     },
     {
-     "name": "Honda NSX Gr.4",
-     "image": "/storage/car_thumbnails/car3251.png",
-     "entries": 2
+     "name": "Audi TT Cup '16",
+     "image": "/storage/car_thumbnails/car3298.png",
+     "entries": 10
     },
     {
      "name": "Lamborghini Huracán Gr.4",
      "image": "/storage/car_thumbnails/car3253.png",
      "entries": 2
+    },
+    {
+     "name": "Honda NSX Gr.4",
+     "image": "/storage/car_thumbnails/car3251.png",
+     "entries": 1
     }
    ]
   },
@@ -139,7 +139,7 @@
    "meta_car": {
     "name": "Jaguar F-type Gr.3",
     "image": "/storage/car_thumbnails/car2184.png",
-    "entries": 42
+    "entries": 40
    },
    "car_total": 100,
    "other_cars": [
@@ -149,14 +149,14 @@
      "entries": 20
     },
     {
+     "name": "BMW Z4 GT3 '11",
+     "image": "/storage/car_thumbnails/car1902.png",
+     "entries": 11
+    },
+    {
      "name": "Toyota GR Supra Racing Concept '18",
      "image": "/storage/car_thumbnails/car3352.png",
      "entries": 10
-    },
-    {
-     "name": "BMW Z4 GT3 '11",
-     "image": "/storage/car_thumbnails/car1902.png",
-     "entries": 9
     },
     {
      "name": "PEUGEOT Vision Gran Turismo (Gr.3)",
@@ -225,14 +225,14 @@
    "meta_car": {
     "name": "Dallara SF23 Super Formula / Toyota '23",
     "image": "/storage/car_thumbnails/car3529.png",
-    "entries": 80
+    "entries": 79
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Dallara SF23 Super Formula / Honda '23",
      "image": "/storage/car_thumbnails/car3528.png",
-     "entries": 20
+     "entries": 21
     }
    ]
   }
