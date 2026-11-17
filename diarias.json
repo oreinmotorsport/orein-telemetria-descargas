@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-17T05:21:11Z",
+ "actualizado": "2026-11-17T09:24:22Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -58,28 +58,28 @@
    "meta_car": {
     "name": "Nissan GT-R Gr.4",
     "image": "/storage/car_thumbnails/car2161.png",
-    "entries": 75
+    "entries": 76
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "MAZDA3 Gr.4",
      "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 12
+     "entries": 13
     },
     {
      "name": "Audi TT Cup '16",
      "image": "/storage/car_thumbnails/car3298.png",
-     "entries": 10
-    },
-    {
-     "name": "Lamborghini Huracán Gr.4",
-     "image": "/storage/car_thumbnails/car3253.png",
-     "entries": 2
+     "entries": 9
     },
     {
      "name": "Honda NSX Gr.4",
      "image": "/storage/car_thumbnails/car3251.png",
+     "entries": 1
+    },
+    {
+     "name": "Lamborghini Huracán Gr.4",
+     "image": "/storage/car_thumbnails/car3253.png",
      "entries": 1
     }
    ]
@@ -139,14 +139,14 @@
    "meta_car": {
     "name": "Jaguar F-type Gr.3",
     "image": "/storage/car_thumbnails/car2184.png",
-    "entries": 40
+    "entries": 36
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Dodge Viper SRT GT3-R '15",
      "image": "/storage/car_thumbnails/car3223.png",
-     "entries": 20
+     "entries": 21
     },
     {
      "name": "BMW Z4 GT3 '11",
@@ -156,12 +156,12 @@
     {
      "name": "Toyota GR Supra Racing Concept '18",
      "image": "/storage/car_thumbnails/car3352.png",
-     "entries": 10
+     "entries": 11
     },
     {
      "name": "PEUGEOT Vision Gran Turismo (Gr.3)",
      "image": "/storage/car_thumbnails/car3183.png",
-     "entries": 7
+     "entries": 9
     },
     {
      "name": "SUZUKI Vision Gran Turismo (Gr.3 Version)",
