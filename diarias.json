@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-18T01:44:02Z",
+ "actualizado": "2026-11-18T05:24:06Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -58,14 +58,14 @@
    "meta_car": {
     "name": "Nissan GT-R Gr.4",
     "image": "/storage/car_thumbnails/car2161.png",
-    "entries": 87
+    "entries": 88
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "MAZDA3 Gr.4",
      "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 8
+     "entries": 7
     },
     {
      "name": "Audi TT Cup '16",
@@ -134,19 +134,19 @@
    "meta_car": {
     "name": "Dodge Viper SRT GT3-R '15",
     "image": "/storage/car_thumbnails/car3223.png",
-    "entries": 41
+    "entries": 43
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Jaguar F-type Gr.3",
      "image": "/storage/car_thumbnails/car2184.png",
-     "entries": 25
+     "entries": 23
     },
     {
      "name": "BMW Z4 GT3 '11",
      "image": "/storage/car_thumbnails/car1902.png",
-     "entries": 10
+     "entries": 9
     },
     {
      "name": "Toyota GR Supra Racing Concept '18",
@@ -161,7 +161,7 @@
     {
      "name": "Aston Martin V12 Vantage GT3 '12",
      "image": "/storage/car_thumbnails/car2131.png",
-     "entries": 4
+     "entries": 5
     }
    ]
   },
@@ -220,14 +220,14 @@
    "meta_car": {
     "name": "Dallara SF23 Super Formula / Toyota '23",
     "image": "/storage/car_thumbnails/car3529.png",
-    "entries": 79
+    "entries": 80
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Dallara SF23 Super Formula / Honda '23",
      "image": "/storage/car_thumbnails/car3528.png",
-     "entries": 21
+     "entries": 20
     }
    ]
   }
