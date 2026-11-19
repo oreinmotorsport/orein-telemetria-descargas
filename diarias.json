@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-18T21:15:14Z",
+ "actualizado": "2026-11-19T01:40:50Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -58,19 +58,19 @@
    "meta_car": {
     "name": "Nissan GT-R Gr.4",
     "image": "/storage/car_thumbnails/car2161.png",
-    "entries": 87
+    "entries": 88
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "MAZDA3 Gr.4",
      "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 8
+     "entries": 6
     },
     {
      "name": "Audi TT Cup '16",
      "image": "/storage/car_thumbnails/car3298.png",
-     "entries": 3
+     "entries": 4
     },
     {
      "name": "Lamborghini Huracán Gr.4",
@@ -134,29 +134,29 @@
    "meta_car": {
     "name": "Dodge Viper SRT GT3-R '15",
     "image": "/storage/car_thumbnails/car3223.png",
-    "entries": 50
+    "entries": 53
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Jaguar F-type Gr.3",
      "image": "/storage/car_thumbnails/car2184.png",
-     "entries": 20
+     "entries": 18
     },
     {
      "name": "BMW Z4 GT3 '11",
      "image": "/storage/car_thumbnails/car1902.png",
-     "entries": 8
+     "entries": 10
     },
     {
      "name": "Toyota GR Supra Racing Concept '18",
      "image": "/storage/car_thumbnails/car3352.png",
-     "entries": 6
+     "entries": 5
     },
     {
      "name": "PEUGEOT Vision Gran Turismo (Gr.3)",
      "image": "/storage/car_thumbnails/car3183.png",
-     "entries": 5
+     "entries": 4
     },
     {
      "name": "Aston Martin V12 Vantage GT3 '12",
@@ -220,14 +220,14 @@
    "meta_car": {
     "name": "Dallara SF23 Super Formula / Toyota '23",
     "image": "/storage/car_thumbnails/car3529.png",
-    "entries": 78
+    "entries": 77
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Dallara SF23 Super Formula / Honda '23",
      "image": "/storage/car_thumbnails/car3528.png",
-     "entries": 22
+     "entries": 23
     }
    ]
   }
