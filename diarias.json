@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-19T17:23:23Z",
+ "actualizado": "2026-11-19T21:12:28Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -134,7 +134,7 @@
    "meta_car": {
     "name": "Dodge Viper SRT GT3-R '15",
     "image": "/storage/car_thumbnails/car3223.png",
-    "entries": 57
+    "entries": 59
    },
    "car_total": 100,
    "other_cars": [
@@ -146,12 +146,12 @@
     {
      "name": "BMW Z4 GT3 '11",
      "image": "/storage/car_thumbnails/car1902.png",
-     "entries": 10
+     "entries": 9
     },
     {
      "name": "PEUGEOT Vision Gran Turismo (Gr.3)",
      "image": "/storage/car_thumbnails/car3183.png",
-     "entries": 5
+     "entries": 4
     },
     {
      "name": "Toyota GR Supra Racing Concept '18",
