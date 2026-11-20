@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-20T09:24:13Z",
+ "actualizado": "2026-11-20T13:38:46Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -220,14 +220,14 @@
    "meta_car": {
     "name": "Dallara SF23 Super Formula / Toyota '23",
     "image": "/storage/car_thumbnails/car3529.png",
-    "entries": 76
+    "entries": 75
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Dallara SF23 Super Formula / Honda '23",
      "image": "/storage/car_thumbnails/car3528.png",
-     "entries": 24
+     "entries": 25
     }
    ]
   }
