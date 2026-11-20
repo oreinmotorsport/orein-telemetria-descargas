@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-20T05:25:01Z",
+ "actualizado": "2026-11-20T09:24:13Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -63,13 +63,13 @@
    "car_total": 100,
    "other_cars": [
     {
-     "name": "MAZDA3 Gr.4",
-     "image": "/storage/car_thumbnails/car3537.png",
+     "name": "Audi TT Cup '16",
+     "image": "/storage/car_thumbnails/car3298.png",
      "entries": 4
     },
     {
-     "name": "Audi TT Cup '16",
-     "image": "/storage/car_thumbnails/car3298.png",
+     "name": "MAZDA3 Gr.4",
+     "image": "/storage/car_thumbnails/car3537.png",
      "entries": 4
     },
     {
@@ -149,19 +149,19 @@
      "entries": 8
     },
     {
-     "name": "PEUGEOT Vision Gran Turismo (Gr.3)",
-     "image": "/storage/car_thumbnails/car3183.png",
-     "entries": 4
-    },
-    {
      "name": "Toyota GR Supra Racing Concept '18",
      "image": "/storage/car_thumbnails/car3352.png",
      "entries": 4
     },
     {
-     "name": "Aston Martin V12 Vantage GT3 '12",
-     "image": "/storage/car_thumbnails/car2131.png",
-     "entries": 3
+     "name": "PEUGEOT Vision Gran Turismo (Gr.3)",
+     "image": "/storage/car_thumbnails/car3183.png",
+     "entries": 4
+    },
+    {
+     "name": "SUZUKI Vision Gran Turismo (Gr.3 Version)",
+     "image": "/storage/car_thumbnails/car3508.png",
+     "entries": 2
     }
    ]
   },
