@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-20T01:34:27Z",
+ "actualizado": "2026-11-20T05:25:01Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -58,14 +58,14 @@
    "meta_car": {
     "name": "Nissan GT-R Gr.4",
     "image": "/storage/car_thumbnails/car2161.png",
-    "entries": 88
+    "entries": 89
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "MAZDA3 Gr.4",
      "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 5
+     "entries": 4
     },
     {
      "name": "Audi TT Cup '16",
