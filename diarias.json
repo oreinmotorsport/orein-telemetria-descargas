@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-21T13:24:26Z",
+ "actualizado": "2026-11-21T17:06:49Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -58,18 +58,18 @@
    "meta_car": {
     "name": "Nissan GT-R Gr.4",
     "image": "/storage/car_thumbnails/car2161.png",
-    "entries": 89
+    "entries": 88
    },
    "car_total": 100,
    "other_cars": [
     {
-     "name": "MAZDA3 Gr.4",
-     "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 4
-    },
-    {
      "name": "Audi TT Cup '16",
      "image": "/storage/car_thumbnails/car3298.png",
+     "entries": 5
+    },
+    {
+     "name": "MAZDA3 Gr.4",
+     "image": "/storage/car_thumbnails/car3537.png",
      "entries": 4
     },
     {
@@ -134,7 +134,7 @@
    "meta_car": {
     "name": "Dodge Viper SRT GT3-R '15",
     "image": "/storage/car_thumbnails/car3223.png",
-    "entries": 64
+    "entries": 65
    },
    "car_total": 100,
    "other_cars": [
@@ -149,13 +149,13 @@
      "entries": 8
     },
     {
-     "name": "PEUGEOT Vision Gran Turismo (Gr.3)",
-     "image": "/storage/car_thumbnails/car3183.png",
-     "entries": 4
-    },
-    {
      "name": "Toyota GR Supra Racing Concept '18",
      "image": "/storage/car_thumbnails/car3352.png",
+     "entries": 3
+    },
+    {
+     "name": "PEUGEOT Vision Gran Turismo (Gr.3)",
+     "image": "/storage/car_thumbnails/car3183.png",
      "entries": 3
     },
     {
