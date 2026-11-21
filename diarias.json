@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-21T05:18:38Z",
+ "actualizado": "2026-11-21T13:24:26Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -134,14 +134,14 @@
    "meta_car": {
     "name": "Dodge Viper SRT GT3-R '15",
     "image": "/storage/car_thumbnails/car3223.png",
-    "entries": 63
+    "entries": 64
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Jaguar F-type Gr.3",
      "image": "/storage/car_thumbnails/car2184.png",
-     "entries": 14
+     "entries": 13
     },
     {
      "name": "BMW Z4 GT3 '11",
@@ -220,14 +220,14 @@
    "meta_car": {
     "name": "Dallara SF23 Super Formula / Toyota '23",
     "image": "/storage/car_thumbnails/car3529.png",
-    "entries": 74
+    "entries": 73
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Dallara SF23 Super Formula / Honda '23",
      "image": "/storage/car_thumbnails/car3528.png",
-     "entries": 26
+     "entries": 27
     }
    ]
   }
