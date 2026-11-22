@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-22T05:20:03Z",
+ "actualizado": "2026-11-22T13:23:02Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -146,12 +146,12 @@
     {
      "name": "Jaguar F-type Gr.3",
      "image": "/storage/car_thumbnails/car2184.png",
-     "entries": 11
+     "entries": 10
     },
     {
      "name": "BMW Z4 GT3 '11",
      "image": "/storage/car_thumbnails/car1902.png",
-     "entries": 7
+     "entries": 8
     },
     {
      "name": "Toyota GR Supra Racing Concept '18",
@@ -225,14 +225,14 @@
    "meta_car": {
     "name": "Dallara SF23 Super Formula / Toyota '23",
     "image": "/storage/car_thumbnails/car3529.png",
-    "entries": 73
+    "entries": 72
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Dallara SF23 Super Formula / Honda '23",
      "image": "/storage/car_thumbnails/car3528.png",
-     "entries": 27
+     "entries": 28
     }
    ]
   }
