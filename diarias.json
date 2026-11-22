@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-21T21:02:06Z",
+ "actualizado": "2026-11-22T05:20:03Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -58,7 +58,7 @@
    "meta_car": {
     "name": "Nissan GT-R Gr.4",
     "image": "/storage/car_thumbnails/car2161.png",
-    "entries": 88
+    "entries": 87
    },
    "car_total": 100,
    "other_cars": [
@@ -76,6 +76,11 @@
      "name": "Lamborghini Huracán Gr.4",
      "image": "/storage/car_thumbnails/car3253.png",
      "entries": 3
+    },
+    {
+     "name": "Honda NSX Gr.4",
+     "image": "/storage/car_thumbnails/car3251.png",
+     "entries": 1
     }
    ]
   },
