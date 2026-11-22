@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-22T13:23:02Z",
+ "actualizado": "2026-11-22T17:06:20Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -65,16 +65,16 @@
     {
      "name": "Audi TT Cup '16",
      "image": "/storage/car_thumbnails/car3298.png",
-     "entries": 5
-    },
-    {
-     "name": "MAZDA3 Gr.4",
-     "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 4
+     "entries": 6
     },
     {
      "name": "Lamborghini Huracán Gr.4",
      "image": "/storage/car_thumbnails/car3253.png",
+     "entries": 3
+    },
+    {
+     "name": "MAZDA3 Gr.4",
+     "image": "/storage/car_thumbnails/car3537.png",
      "entries": 3
     },
     {
@@ -139,7 +139,7 @@
    "meta_car": {
     "name": "Dodge Viper SRT GT3-R '15",
     "image": "/storage/car_thumbnails/car3223.png",
-    "entries": 68
+    "entries": 69
    },
    "car_total": 100,
    "other_cars": [
@@ -164,8 +164,8 @@
      "entries": 3
     },
     {
-     "name": "SUZUKI Vision Gran Turismo (Gr.3 Version)",
-     "image": "/storage/car_thumbnails/car3508.png",
+     "name": "Aston Martin V12 Vantage GT3 '12",
+     "image": "/storage/car_thumbnails/car2131.png",
      "entries": 2
     }
    ]
