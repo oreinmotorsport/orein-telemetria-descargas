@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-22T21:03:52Z",
+ "actualizado": "2026-11-23T01:42:26Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -139,7 +139,7 @@
    "meta_car": {
     "name": "Dodge Viper SRT GT3-R '15",
     "image": "/storage/car_thumbnails/car3223.png",
-    "entries": 69
+    "entries": 70
    },
    "car_total": 100,
    "other_cars": [
@@ -151,7 +151,7 @@
     {
      "name": "BMW Z4 GT3 '11",
      "image": "/storage/car_thumbnails/car1902.png",
-     "entries": 8
+     "entries": 7
     },
     {
      "name": "Toyota GR Supra Racing Concept '18",
@@ -225,14 +225,14 @@
    "meta_car": {
     "name": "Dallara SF23 Super Formula / Toyota '23",
     "image": "/storage/car_thumbnails/car3529.png",
-    "entries": 71
+    "entries": 72
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Dallara SF23 Super Formula / Honda '23",
      "image": "/storage/car_thumbnails/car3528.png",
-     "entries": 29
+     "entries": 28
     }
    ]
   }
