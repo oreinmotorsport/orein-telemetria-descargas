@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-23T09:44:19Z",
+ "actualizado": "2026-11-23T13:45:37Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -116,26 +116,16 @@
     }
    },
    "meta_car": {
-    "name": "Audi TT Cup '16",
-    "image": "/storage/car_thumbnails/car3298.png",
-    "entries": 61
+    "name": "Lamborghini Huracán Gr.4",
+    "image": "/storage/car_thumbnails/car3253.png",
+    "entries": 49
    },
    "car_total": 100,
    "other_cars": [
     {
-     "name": "Lamborghini Huracán Gr.4",
-     "image": "/storage/car_thumbnails/car3253.png",
-     "entries": 17
-    },
-    {
-     "name": "Honda NSX Gr.4",
-     "image": "/storage/car_thumbnails/car3251.png",
-     "entries": 8
-    },
-    {
-     "name": "MAZDA3 Gr.4",
-     "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 5
+     "name": "Audi TT Cup '16",
+     "image": "/storage/car_thumbnails/car3298.png",
+     "entries": 40
     },
     {
      "name": "Hyundai ELANTRA N TC '24",
@@ -143,9 +133,14 @@
      "entries": 5
     },
     {
-     "name": "Mazda Atenza Gr.4",
-     "image": "/storage/car_thumbnails/car3256.png",
-     "entries": 1
+     "name": "MAZDA3 Gr.4",
+     "image": "/storage/car_thumbnails/car3537.png",
+     "entries": 3
+    },
+    {
+     "name": "Ferrari 458 Italia Gr.4",
+     "image": "/storage/car_thumbnails/car3263.png",
+     "entries": 3
     }
    ]
   },
@@ -204,31 +199,31 @@
     }
    },
    "meta_car": {
-    "name": "Porsche 963 '24",
-    "image": "/storage/car_thumbnails/car3607.png",
-    "entries": 48
+    "name": "Peugeot 9X8 '25",
+    "image": "/storage/car_thumbnails/car3606.png",
+    "entries": 39
    },
    "car_total": 100,
    "other_cars": [
     {
-     "name": "Peugeot 9X8 '25",
-     "image": "/storage/car_thumbnails/car3606.png",
-     "entries": 29
+     "name": "Porsche 963 '24",
+     "image": "/storage/car_thumbnails/car3607.png",
+     "entries": 39
     },
     {
      "name": "BMW M Hybrid V8 '25",
      "image": "/storage/car_thumbnails/car3604.png",
-     "entries": 10
+     "entries": 17
     },
     {
      "name": "Ferrari 499P '23",
      "image": "/storage/car_thumbnails/car3605.png",
-     "entries": 9
+     "entries": 4
     },
     {
      "name": "TOYOTA GR010 HYBRID '21",
      "image": "/storage/car_thumbnails/car3499.png",
-     "entries": 4
+     "entries": 1
     }
    ]
   }
