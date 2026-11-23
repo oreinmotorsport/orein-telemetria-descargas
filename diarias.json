@@ -1,30 +1,30 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-23T01:42:26Z",
+ "actualizado": "2026-11-23T09:44:19Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
    "race_type": "A",
-   "track_name": "Blue Moon Bay Speedway - Infield A",
-   "track_photo": "/site-assets/TrackPhotos/Blue Moon Bay Speedway - Infield A_.webp",
-   "track_map": "/site-assets/SvgTrackMaps/BlueMoonSpeedway-InfieldA-Center.svg",
-   "laps": 9,
-   "car_class": "Gr.4",
+   "track_name": "Kyoto Driving Park - Miyabi",
+   "track_photo": "/site-assets/TrackPhotos/Kyoto Driving Park - Yamagiwa_.webp",
+   "track_map": "/site-assets/SvgTrackMaps/KyotoDrivingPark-Miyabi-Center.svg",
+   "laps": 8,
+   "car_class": "Gr.1",
    "status": "live",
-   "begin_date": "2026-11-16 00:00:00",
-   "end_date": "2026-11-22 23:59:59",
+   "begin_date": "2026-11-23 00:00:00",
+   "end_date": "2026-11-29 23:59:59",
    "raw_payload": {
     "pit": {
      "refueling_speed": 10
     },
     "race": {
-     "start_type": "StartFormationRolling",
-     "consume_fuel": 1,
-     "consume_tire": 1,
+     "start_type": "StartGrid",
+     "consume_fuel": 0,
+     "consume_tire": 0,
      "pit_constraint": 0,
-     "behavior_damage": "Weak",
+     "behavior_damage": "Middle",
      "limit_fuel_capacity": -1,
-     "behavior_slip_stream_type": "Simulation"
+     "behavior_slip_stream_type": "Real"
     },
     "event": {
      "end_date": -1,
@@ -36,64 +36,43 @@
      "event_description_key": ""
     },
     "track": {
-     "hour": 14,
-     "minute": 9
+     "hour": 16,
+     "minute": 10
     },
     "penalty": {
      "penalty_level": 1,
      "is_guide_course_off": false
     },
     "regulation": {
-     "tire": "Racing",
+     "tire": "Sport",
      "compounds": [
-      "Medium"
+      "Soft"
      ],
      "limit_nos": "Prohibitted",
      "limit_wide_fender": "Prohibitted",
-     "limit_car_settings": false,
+     "limit_car_settings": true,
      "required_compounds": [],
      "use_balance_of_power": true
     }
    },
    "meta_car": {
-    "name": "Nissan GT-R Gr.4",
-    "image": "/storage/car_thumbnails/car2161.png",
-    "entries": 87
+    "name": "Gran Turismo Racing Kart 125 Shifter",
+    "image": "/storage/car_thumbnails/car2060.png",
+    "entries": 100
    },
    "car_total": 100,
-   "other_cars": [
-    {
-     "name": "Audi TT Cup '16",
-     "image": "/storage/car_thumbnails/car3298.png",
-     "entries": 6
-    },
-    {
-     "name": "Lamborghini Huracán Gr.4",
-     "image": "/storage/car_thumbnails/car3253.png",
-     "entries": 3
-    },
-    {
-     "name": "MAZDA3 Gr.4",
-     "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 3
-    },
-    {
-     "name": "Honda NSX Gr.4",
-     "image": "/storage/car_thumbnails/car3251.png",
-     "entries": 1
-    }
-   ]
+   "other_cars": []
   },
   {
    "race_type": "B",
-   "track_name": "Deep Forest Raceway",
-   "track_photo": "/site-assets/TrackPhotos/Deep Forest Raceway_.webp",
-   "track_map": "/site-assets/SvgTrackMaps/DeepForestRaceway-Center.svg",
-   "laps": 7,
-   "car_class": "Gr.3",
+   "track_name": "Kyoto Driving Park - Yamagiwa",
+   "track_photo": "/site-assets/TrackPhotos/Kyoto Driving Park - Yamagiwa_.webp",
+   "track_map": "/site-assets/SvgTrackMaps/KyotoDrivingPark-Yamagiwa-Center.svg",
+   "laps": 4,
+   "car_class": "Gr.4",
    "status": "live",
-   "begin_date": "2026-11-16 00:00:00",
-   "end_date": "2026-11-22 23:59:59",
+   "begin_date": "2026-11-23 00:00:00",
+   "end_date": "2026-11-29 23:59:59",
    "raw_payload": {
     "pit": {
      "refueling_speed": 10
@@ -117,8 +96,8 @@
      "event_description_key": ""
     },
     "track": {
-     "hour": 9,
-     "minute": 0
+     "hour": 17,
+     "minute": 40
     },
     "penalty": {
      "penalty_level": 1,
@@ -127,7 +106,7 @@
     "regulation": {
      "tire": "Racing",
      "compounds": [
-      "Hard"
+      "Medium"
      ],
      "limit_nos": "Prohibitted",
      "limit_wide_fender": "Prohibitted",
@@ -137,61 +116,61 @@
     }
    },
    "meta_car": {
-    "name": "Dodge Viper SRT GT3-R '15",
-    "image": "/storage/car_thumbnails/car3223.png",
-    "entries": 70
+    "name": "Audi TT Cup '16",
+    "image": "/storage/car_thumbnails/car3298.png",
+    "entries": 61
    },
    "car_total": 100,
    "other_cars": [
     {
-     "name": "Jaguar F-type Gr.3",
-     "image": "/storage/car_thumbnails/car2184.png",
-     "entries": 10
+     "name": "Lamborghini Huracán Gr.4",
+     "image": "/storage/car_thumbnails/car3253.png",
+     "entries": 17
     },
     {
-     "name": "BMW Z4 GT3 '11",
-     "image": "/storage/car_thumbnails/car1902.png",
-     "entries": 7
+     "name": "Honda NSX Gr.4",
+     "image": "/storage/car_thumbnails/car3251.png",
+     "entries": 8
     },
     {
-     "name": "Toyota GR Supra Racing Concept '18",
-     "image": "/storage/car_thumbnails/car3352.png",
-     "entries": 3
+     "name": "MAZDA3 Gr.4",
+     "image": "/storage/car_thumbnails/car3537.png",
+     "entries": 5
     },
     {
-     "name": "PEUGEOT Vision Gran Turismo (Gr.3)",
-     "image": "/storage/car_thumbnails/car3183.png",
-     "entries": 3
+     "name": "Hyundai ELANTRA N TC '24",
+     "image": "/storage/car_thumbnails/car3590.png",
+     "entries": 5
     },
     {
-     "name": "Aston Martin V12 Vantage GT3 '12",
-     "image": "/storage/car_thumbnails/car2131.png",
-     "entries": 2
+     "name": "Mazda Atenza Gr.4",
+     "image": "/storage/car_thumbnails/car3256.png",
+     "entries": 1
     }
    ]
   },
   {
    "race_type": "C",
-   "track_name": "Suzuka Circuit",
-   "track_photo": "/site-assets/TrackPhotos/Suzuka Circuit_.webp",
-   "track_map": "/site-assets/SvgTrackMaps/SuzukaCircuit-CENTER.svg",
-   "laps": 13,
+   "track_name": "24 Heures du Mans Racing Circuit",
+   "track_photo": "/site-assets/TrackPhotos/24 Heures du Mans Racing Circuit_.webp",
+   "track_map": "/site-assets/SvgTrackMaps/LeMans-Chicane-Center.svg",
+   "laps": 14,
    "car_class": "Gr.1",
    "status": "live",
-   "begin_date": "2026-11-16 00:00:00",
-   "end_date": "2026-11-22 23:59:59",
+   "begin_date": "2026-11-23 00:00:00",
+   "end_date": "2026-11-29 23:59:59",
    "raw_payload": {
     "pit": {
      "refueling_speed": 10
     },
     "race": {
-     "start_type": "StartGrid",
+     "start_type": "StartFormationRolling",
      "consume_fuel": 2,
-     "consume_tire": 3,
+     "consume_tire": 4,
      "pit_constraint": 1,
      "behavior_damage": "Middle",
      "limit_fuel_capacity": -1,
-     "behavior_slip_stream_type": "Real"
+     "behavior_slip_stream_type": "Custom"
     },
     "event": {
      "end_date": -1,
@@ -203,19 +182,21 @@
      "event_description_key": ""
     },
     "track": {
-     "hour": 0,
-     "minute": 0
+     "hour": 17,
+     "minute": 40
     },
     "penalty": {
      "penalty_level": 1,
-     "is_guide_course_off": false
+     "is_guide_course_off": true
     },
     "regulation": {
      "tire": "Racing",
      "compounds": [
-      "Soft"
+      "Medium",
+      "RainIntermediate",
+      "RainHeavyWet"
      ],
-     "limit_nos": "NoLimit",
+     "limit_nos": "Prohibitted",
      "limit_wide_fender": "Prohibitted",
      "limit_car_settings": false,
      "required_compounds": [],
@@ -223,16 +204,31 @@
     }
    },
    "meta_car": {
-    "name": "Dallara SF23 Super Formula / Toyota '23",
-    "image": "/storage/car_thumbnails/car3529.png",
-    "entries": 72
+    "name": "Porsche 963 '24",
+    "image": "/storage/car_thumbnails/car3607.png",
+    "entries": 48
    },
    "car_total": 100,
    "other_cars": [
     {
-     "name": "Dallara SF23 Super Formula / Honda '23",
-     "image": "/storage/car_thumbnails/car3528.png",
-     "entries": 28
+     "name": "Peugeot 9X8 '25",
+     "image": "/storage/car_thumbnails/car3606.png",
+     "entries": 29
+    },
+    {
+     "name": "BMW M Hybrid V8 '25",
+     "image": "/storage/car_thumbnails/car3604.png",
+     "entries": 10
+    },
+    {
+     "name": "Ferrari 499P '23",
+     "image": "/storage/car_thumbnails/car3605.png",
+     "entries": 9
+    },
+    {
+     "name": "TOYOTA GR010 HYBRID '21",
+     "image": "/storage/car_thumbnails/car3499.png",
+     "entries": 4
     }
    ]
   }
