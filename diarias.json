@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-23T17:24:07Z",
+ "actualizado": "2026-11-23T21:13:49Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,19 +118,19 @@
    "meta_car": {
     "name": "Lamborghini Huracán Gr.4",
     "image": "/storage/car_thumbnails/car3253.png",
-    "entries": 70
+    "entries": 80
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Audi TT Cup '16",
      "image": "/storage/car_thumbnails/car3298.png",
-     "entries": 22
+     "entries": 13
     },
     {
      "name": "Hyundai ELANTRA N TC '24",
      "image": "/storage/car_thumbnails/car3590.png",
-     "entries": 4
+     "entries": 3
     },
     {
      "name": "MAZDA3 Gr.4",
@@ -199,31 +199,26 @@
     }
    },
    "meta_car": {
-    "name": "Peugeot 9X8 '25",
-    "image": "/storage/car_thumbnails/car3606.png",
-    "entries": 40
+    "name": "BMW M Hybrid V8 '25",
+    "image": "/storage/car_thumbnails/car3604.png",
+    "entries": 34
    },
    "car_total": 100,
    "other_cars": [
     {
-     "name": "BMW M Hybrid V8 '25",
-     "image": "/storage/car_thumbnails/car3604.png",
-     "entries": 28
-    },
-    {
      "name": "Porsche 963 '24",
      "image": "/storage/car_thumbnails/car3607.png",
-     "entries": 27
+     "entries": 33
+    },
+    {
+     "name": "Peugeot 9X8 '25",
+     "image": "/storage/car_thumbnails/car3606.png",
+     "entries": 29
     },
     {
      "name": "Ferrari 499P '23",
      "image": "/storage/car_thumbnails/car3605.png",
      "entries": 4
-    },
-    {
-     "name": "TOYOTA GR010 HYBRID '21",
-     "image": "/storage/car_thumbnails/car3499.png",
-     "entries": 1
     }
    ]
   }
