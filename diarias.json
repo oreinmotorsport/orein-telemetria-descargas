@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-24T09:34:35Z",
+ "actualizado": "2026-11-24T13:42:11Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,14 +118,14 @@
    "meta_car": {
     "name": "Lamborghini Huracán Gr.4",
     "image": "/storage/car_thumbnails/car3253.png",
-    "entries": 88
+    "entries": 89
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Audi TT Cup '16",
      "image": "/storage/car_thumbnails/car3298.png",
-     "entries": 6
+     "entries": 5
     },
     {
      "name": "MAZDA3 Gr.4",
@@ -206,19 +206,19 @@
    "meta_car": {
     "name": "BMW M Hybrid V8 '25",
     "image": "/storage/car_thumbnails/car3604.png",
-    "entries": 41
+    "entries": 43
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Porsche 963 '24",
      "image": "/storage/car_thumbnails/car3607.png",
-     "entries": 31
+     "entries": 32
     },
     {
      "name": "Peugeot 9X8 '25",
      "image": "/storage/car_thumbnails/car3606.png",
-     "entries": 25
+     "entries": 22
     },
     {
      "name": "Ferrari 499P '23",
