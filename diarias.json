@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-25T05:28:55Z",
+ "actualizado": "2026-11-25T13:45:34Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,14 +118,19 @@
    "meta_car": {
     "name": "Lamborghini Huracán Gr.4",
     "image": "/storage/car_thumbnails/car3253.png",
-    "entries": 94
+    "entries": 93
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Audi TT Cup '16",
      "image": "/storage/car_thumbnails/car3298.png",
-     "entries": 2
+     "entries": 3
+    },
+    {
+     "name": "Hyundai ELANTRA N TC '24",
+     "image": "/storage/car_thumbnails/car3590.png",
+     "entries": 1
     },
     {
      "name": "Ferrari 458 Italia Gr.4",
@@ -140,11 +145,6 @@
     {
      "name": "Honda NSX Gr.4",
      "image": "/storage/car_thumbnails/car3251.png",
-     "entries": 1
-    },
-    {
-     "name": "Hyundai ELANTRA N TC '24",
-     "image": "/storage/car_thumbnails/car3590.png",
      "entries": 1
     }
    ]
@@ -204,21 +204,21 @@
     }
    },
    "meta_car": {
-    "name": "BMW M Hybrid V8 '25",
-    "image": "/storage/car_thumbnails/car3604.png",
-    "entries": 42
+    "name": "Porsche 963 '24",
+    "image": "/storage/car_thumbnails/car3607.png",
+    "entries": 43
    },
    "car_total": 100,
    "other_cars": [
     {
-     "name": "Porsche 963 '24",
-     "image": "/storage/car_thumbnails/car3607.png",
-     "entries": 38
+     "name": "BMW M Hybrid V8 '25",
+     "image": "/storage/car_thumbnails/car3604.png",
+     "entries": 40
     },
     {
      "name": "Peugeot 9X8 '25",
      "image": "/storage/car_thumbnails/car3606.png",
-     "entries": 17
+     "entries": 14
     },
     {
      "name": "Ferrari 499P '23",
