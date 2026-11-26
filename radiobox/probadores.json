@@ -1,7 +1,7 @@
 {
  "activa": true,
  "dias": 30,
- "hasta": "2026-11-21",
+ "hasta": "2026-12-03",
  "mensaje_fin": "La prueba de Radio Box ha terminado. ¡Muchas gracias por probarla!",
  "registro": "https://script.google.com/macros/s/AKfycbzYZ8Os-3e4FfV69iu2ViK3mUI6mzHUTHGLSJ-mcskeEVDEToszfDRSCrMoxaFRhIs7/exec",
  "probadores": {
@@ -48,6 +48,11 @@
   "90c63a063e4a362f5877a03d32e516d4cc6711cd8c77ace2a517612e40d47e20": {
    "n": 0,
    "nota": "codigo para todos",
+   "activo": true
+  },
+  "d7384085d0b9c85893bca83fb9135097869d3886648976463aa5e032d20a38d7": {
+   "n": 11,
+   "nota": "segunda semana (codigo para todos)",
    "activo": true
   }
  }
