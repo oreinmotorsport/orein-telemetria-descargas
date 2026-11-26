@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-25T21:20:11Z",
+ "actualizado": "2026-11-26T01:45:49Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,7 +118,7 @@
    "meta_car": {
     "name": "Lamborghini Huracán Gr.4",
     "image": "/storage/car_thumbnails/car3253.png",
-    "entries": 95
+    "entries": 96
    },
    "car_total": 100,
    "other_cars": [
@@ -140,11 +140,6 @@
     {
      "name": "MAZDA3 Gr.4",
      "image": "/storage/car_thumbnails/car3537.png",
-     "entries": 1
-    },
-    {
-     "name": "Honda NSX Gr.4",
-     "image": "/storage/car_thumbnails/car3251.png",
      "entries": 1
     }
    ]
@@ -206,14 +201,14 @@
    "meta_car": {
     "name": "Porsche 963 '24",
     "image": "/storage/car_thumbnails/car3607.png",
-    "entries": 44
+    "entries": 43
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "BMW M Hybrid V8 '25",
      "image": "/storage/car_thumbnails/car3604.png",
-     "entries": 38
+     "entries": 39
     },
     {
      "name": "Peugeot 9X8 '25",
