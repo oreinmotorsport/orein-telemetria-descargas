@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-26T05:29:34Z",
+ "actualizado": "2026-11-26T13:45:18Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,7 +118,7 @@
    "meta_car": {
     "name": "Lamborghini Huracán Gr.4",
     "image": "/storage/car_thumbnails/car3253.png",
-    "entries": 96
+    "entries": 97
    },
    "car_total": 100,
    "other_cars": [
@@ -135,11 +135,6 @@
     {
      "name": "Ferrari 458 Italia Gr.4",
      "image": "/storage/car_thumbnails/car3263.png",
-     "entries": 1
-    },
-    {
-     "name": "MAZDA3 Gr.4",
-     "image": "/storage/car_thumbnails/car3537.png",
      "entries": 1
     }
    ]
@@ -199,21 +194,21 @@
     }
    },
    "meta_car": {
-    "name": "Porsche 963 '24",
-    "image": "/storage/car_thumbnails/car3607.png",
+    "name": "BMW M Hybrid V8 '25",
+    "image": "/storage/car_thumbnails/car3604.png",
     "entries": 42
    },
    "car_total": 100,
    "other_cars": [
     {
-     "name": "BMW M Hybrid V8 '25",
-     "image": "/storage/car_thumbnails/car3604.png",
-     "entries": 41
+     "name": "Porsche 963 '24",
+     "image": "/storage/car_thumbnails/car3607.png",
+     "entries": 42
     },
     {
      "name": "Peugeot 9X8 '25",
      "image": "/storage/car_thumbnails/car3606.png",
-     "entries": 13
+     "entries": 12
     },
     {
      "name": "Ferrari 499P '23",
