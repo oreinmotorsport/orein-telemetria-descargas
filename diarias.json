@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-27T09:35:00Z",
+ "actualizado": "2026-11-27T21:17:17Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -118,7 +118,7 @@
    "meta_car": {
     "name": "Lamborghini Huracán Gr.4",
     "image": "/storage/car_thumbnails/car3253.png",
-    "entries": 97
+    "entries": 98
    },
    "car_total": 100,
    "other_cars": [
@@ -130,11 +130,6 @@
     {
      "name": "Hyundai ELANTRA N TC '24",
      "image": "/storage/car_thumbnails/car3590.png",
-     "entries": 1
-    },
-    {
-     "name": "Ferrari 458 Italia Gr.4",
-     "image": "/storage/car_thumbnails/car3263.png",
      "entries": 1
     }
    ]
@@ -196,14 +191,14 @@
    "meta_car": {
     "name": "BMW M Hybrid V8 '25",
     "image": "/storage/car_thumbnails/car3604.png",
-    "entries": 49
+    "entries": 50
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Porsche 963 '24",
      "image": "/storage/car_thumbnails/car3607.png",
-     "entries": 36
+     "entries": 35
     },
     {
      "name": "Peugeot 9X8 '25",
