@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-26T21:15:05Z",
+ "actualizado": "2026-11-27T09:35:00Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -196,14 +196,14 @@
    "meta_car": {
     "name": "BMW M Hybrid V8 '25",
     "image": "/storage/car_thumbnails/car3604.png",
-    "entries": 48
+    "entries": 49
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Porsche 963 '24",
      "image": "/storage/car_thumbnails/car3607.png",
-     "entries": 37
+     "entries": 36
     },
     {
      "name": "Peugeot 9X8 '25",
