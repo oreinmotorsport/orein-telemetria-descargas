@@ -1,6 +1,6 @@
 {
  "estado": "ok",
- "actualizado": "2026-11-28T08:06:29Z",
+ "actualizado": "2026-11-28T16:59:30Z",
  "fuente": "GT GridStats · gt-gridstats.com",
  "carreras": [
   {
@@ -125,12 +125,7 @@
     {
      "name": "Audi TT Cup '16",
      "image": "/storage/car_thumbnails/car3298.png",
-     "entries": 1
-    },
-    {
-     "name": "Hyundai ELANTRA N TC '24",
-     "image": "/storage/car_thumbnails/car3590.png",
-     "entries": 1
+     "entries": 2
     }
    ]
   },
@@ -191,24 +186,24 @@
    "meta_car": {
     "name": "BMW M Hybrid V8 '25",
     "image": "/storage/car_thumbnails/car3604.png",
-    "entries": 53
+    "entries": 54
    },
    "car_total": 100,
    "other_cars": [
     {
      "name": "Porsche 963 '24",
      "image": "/storage/car_thumbnails/car3607.png",
-     "entries": 34
+     "entries": 36
     },
     {
      "name": "Peugeot 9X8 '25",
      "image": "/storage/car_thumbnails/car3606.png",
-     "entries": 9
+     "entries": 7
     },
     {
      "name": "Ferrari 499P '23",
      "image": "/storage/car_thumbnails/car3605.png",
-     "entries": 4
+     "entries": 3
     }
    ]
   }
